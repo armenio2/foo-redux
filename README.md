@@ -38,4 +38,4 @@ install Node.js
 
 https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf
 
-https://react-brasil.slack.com/messages/C1H0VLN56/convo/C1EDVPBQC-1537960309.000100/
+https://react-brasil.slack.com
